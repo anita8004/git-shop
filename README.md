@@ -4,15 +4,15 @@ vue練習專案(https://zh.wix.com/website-template/view/html/3212?originUrl=htt
 
 ## 檔案結構
 
-style css
-assets
-  image 圖片
-  font 字體
-components 組件
-  layout
-router 路由
-store 狀態管理
-views 頁面
+- style css
+- assets
+  - image 圖片
+  - font 字體
+- components 組件
+  - layout
+- router 路由
+- store 狀態管理
+- views 頁面
 
 ## 使用套件
 - [vue](https://cn.vuejs.org/guide/introduction)
